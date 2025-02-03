@@ -1,6 +1,7 @@
 # SPL token ALL-IN-ONE Command line tool 🚀
 If you need my help, plz contact to me here
-[telegram @Ee1030109](https://t.me/Ee1030109)
+[telegram @earthzeta
+](https://t.me/earthzeta)
 
 ## Main Features
 - Trading any token using Jupiter API & Raydium swap function
